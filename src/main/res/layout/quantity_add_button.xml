@@ -10,7 +10,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 		android:padding="8dp"
-        android:tint="@color/colorPrimary"
         android:background="?attr/selectableItemBackgroundBorderless"
         android:src="@drawable/ic_remove"
         />
@@ -20,7 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="4dp"
-        android:text="1"
+        android:text="0"
         android:textStyle="bold"
         android:textAppearance="@style/TextAppearance.AppCompat.Subhead" />
 
